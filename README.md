@@ -4,10 +4,6 @@ Pandas Tool
 sqlacodegen mysql+pymysql://password:username@00.00.00.00:____/_____ --outfile ____.py
 
 #------------------------------------------------------------------------------------------
-
-![http](https://robocrop.realpython.net/?url=https%3A//files.realpython.com/media/Python-Requests-Library-Tutorial_Watermarked.3c9dfdc7b014.jpg&w=960&sig=b3f85ff53221de55d15afa943922e03ce853a9c7)
-
-#------------------------------------------------------------------------------------------
 # Downloader using wget
 
 > code 
