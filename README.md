@@ -31,6 +31,8 @@ sqlacodegen mysql+pymysql://password:username@00.00.00.00:____/_____ --outfile _
 #------------------------------------------------------------------------------------------
 # Http headers Study
 
+https://github.com/QueenieCplusplus/Http_header
+
 > code usage 
 
 <https://realpython.com/python-requests/>
