@@ -1,8 +1,6 @@
 # Py_Parser
 Pandas Tool
 
-# Queenie's Data_Fetch 
-
 sqlacodegen mysql+pymysql://password:username@00.00.00.00:____/_____ --outfile ____.py
 
 #------------------------------------------------------------------------------------------
